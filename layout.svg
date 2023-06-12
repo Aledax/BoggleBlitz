@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="layout.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.26173516"
+     inkscape:cx="2481.516"
+     inkscape:cy="1348.6915"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient37380">
+      <stop
+         style="stop-color:#e8308c;stop-opacity:1"
+         offset="0"
+         id="stop37376" />
+      <stop
+         style="stop-color:#c930e8;stop-opacity:1"
+         offset="1"
+         id="stop37378" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient37380"
+       id="linearGradient37384"
+       x1="650"
+       y1="80"
+       x2="650"
+       y2="720"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87499999,0,0,0.984375,81.250007,6.2500006)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path54695"
+       style="fill:#693fc0;fill-opacity:1;stroke:#000000;stroke-width:0"
+       d="M 584.12794,800.00011 -0.00277962,799.99792 584.12999,215.86926 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path54693"
+       style="fill:#a58cd9;fill-opacity:1;stroke:#000000;stroke-width:0"
+       d="m 751.6115,-8.4557135e-5 h 548.3899 L 751.6115,548.38982 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path54673"
+       style="fill:#693fc0;fill-opacity:1;stroke:#000000;stroke-width:0"
+       d="M 1300,800.00009 500,799.99709 1300.0028,-8.3692774e-5 Z"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="rect53927"
+       style="fill:#a58cd9;stroke:#000000;stroke-width:0;fill-opacity:1"
+       d="M 1.6805929e-5,1.6805929e-5 H 800.00002 L 1.6805929e-5,800.00002 Z"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="fill:#8766cc;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect31"
+       width="1280"
+       height="780"
+       x="10.000001"
+       y="10.000001" />
+    <rect
+       style="fill:#6e4db2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1205"
+       width="500"
+       height="700"
+       x="50"
+       y="50"
+       rx="8" />
+    <rect
+       style="fill:#342673;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1099"
+       width="450"
+       height="450"
+       x="75"
+       y="75" />
+    <rect
+       style="fill:#342673;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1199"
+       width="450"
+       height="100"
+       x="75"
+       y="625" />
+    <rect
+       style="fill:#6e4db2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2040"
+       width="140"
+       height="700"
+       x="580"
+       y="50"
+       rx="8" />
+    <rect
+       style="fill:#563894;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1201"
+       width="90"
+       height="650"
+       x="605"
+       y="75" />
+    <rect
+       style="fill:#6e4db2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2042"
+       width="500"
+       height="700"
+       x="750"
+       y="50"
+       rx="8" />
+    <rect
+       style="fill:#cde052;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1203"
+       width="450"
+       height="75"
+       x="775"
+       y="200" />
+    <rect
+       style="fill:#a3b3c2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2066"
+       width="110"
+       height="110"
+       x="105"
+       y="105" />
+    <rect
+       style="fill:#a3b3c2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2166"
+       width="110"
+       height="110"
+       x="245"
+       y="105" />
+    <rect
+       style="fill:#a3b3c2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2168"
+       width="110"
+       height="110"
+       x="385"
+       y="105" />
+    <rect
+       style="fill:#a3b3c2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2170"
+       width="110"
+       height="110"
+       x="105"
+       y="245" />
+    <rect
+       style="fill:#a3b3c2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2172"
+       width="110"
+       height="110"
+       x="245"
+       y="245" />
+    <rect
+       style="fill:#a3b3c2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2174"
+       width="110"
+       height="110"
+       x="385"
+       y="245" />
+    <rect
+       style="fill:#a3b3c2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2176"
+       width="110"
+       height="110"
+       x="105"
+       y="385" />
+    <rect
+       style="fill:#a3b3c2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2178"
+       width="110"
+       height="110"
+       x="245"
+       y="385" />
+    <rect
+       style="fill:#a3b3c2;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2180"
+       width="110"
+       height="110"
+       x="385"
+       y="385" />
+    <text
+       xml:space="preserve"
+       style="font-size:105.833px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Heavy';fill:#677e7e;fill-opacity:1;stroke-width:0.264583;font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="120.15388"
+       y="199.68735"
+       id="text6670"><tspan
+         sodipodi:role="line"
+         id="tspan6668"
+         style="font-size:105.833px;fill:#677e7e;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Heavy';font-family:'Rosa Sans';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="120.15388"
+         y="199.68735">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:105.833px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Heavy';fill:#677e7e;fill-opacity:1;stroke-width:0.264583;font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="261.47678"
+       y="199.68735"
+       id="text12436"><tspan
+         sodipodi:role="line"
+         id="tspan12434"
+         style="font-size:105.833px;fill:#677e7e;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Heavy';font-family:'Rosa Sans';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="261.47678"
+         y="199.68735">B</tspan></text>
+    <rect
+       style="fill:#23194d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect13098"
+       width="440"
+       height="90"
+       x="80"
+       y="630" />
+    <rect
+       style="fill:#563894;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect13118"
+       width="450"
+       height="50"
+       x="75"
+       y="550" />
+    <rect
+       style="fill:#4c3181;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect14607"
+       width="450"
+       height="100"
+       x="775"
+       y="75" />
+    <text
+       xml:space="preserve"
+       style="font-size:70.5556px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Medium';fill:#bcbca9;fill-opacity:1;stroke-width:0.264583;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="854.40869"
+       y="154.98611"
+       id="text44614"><tspan
+         sodipodi:role="line"
+         id="tspan44612"
+         style="font-size:70.5556px;fill:#bcbca9;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Medium';font-family:'Rosa Sans';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="854.40869"
+         y="154.98611">SCORES</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:70.5556px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Medium';fill:#f4f4f1;fill-opacity:1;stroke-width:0.264583;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="854.40869"
+       y="149.69444"
+       id="text14611"><tspan
+         sodipodi:role="line"
+         id="tspan14609"
+         style="font-size:70.5556px;fill:#f4f4f1;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Medium';font-family:'Rosa Sans';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="854.40869"
+         y="149.69444">SCORES</tspan></text>
+    <rect
+       style="fill:#342673;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect16607"
+       width="450"
+       height="75"
+       x="775"
+       y="285" />
+    <rect
+       style="fill:#23194d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect44654"
+       width="440"
+       height="65"
+       x="780"
+       y="290" />
+    <rect
+       style="fill:#342673;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect16609"
+       width="450"
+       height="75"
+       x="775"
+       y="370" />
+    <rect
+       style="fill:#342673;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect16611"
+       width="450"
+       height="75"
+       x="775"
+       y="455" />
+    <rect
+       style="fill:#23194d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect44634"
+       width="440"
+       height="65"
+       x="780"
+       y="205" />
+    <text
+       xml:space="preserve"
+       style="font-size:52.9167px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Semi-Bold';fill:#3df599;fill-opacity:1;stroke-width:0.264583;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="790.37042"
+       y="256.02084"
+       id="text16619"><tspan
+         sodipodi:role="line"
+         id="tspan16617"
+         style="font-size:52.9167px;fill:#3df599;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Semi-Bold';font-family:'Rosa Sans';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="790.37042"
+         y="256.02084">ALEX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:52.9167px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Semi-Bold';fill:#7466cc;fill-opacity:1;stroke-width:0.264583;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="790.37042"
+       y="341.02084"
+       id="text18311"><tspan
+         sodipodi:role="line"
+         id="tspan18309"
+         style="font-size:52.9167px;fill:#7466cc;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Semi-Bold';font-family:'Rosa Sans';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="790.37042"
+         y="341.02084">JASON</tspan></text>
+    <rect
+       style="fill:#23194d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect44656"
+       width="440"
+       height="65"
+       x="780"
+       y="375" />
+    <text
+       xml:space="preserve"
+       style="font-size:52.9167px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Semi-Bold';fill:#7466cc;fill-opacity:1;stroke-width:0.264583;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="790.37042"
+       y="426.02084"
+       id="text18315"><tspan
+         sodipodi:role="line"
+         style="font-size:52.9167px;fill:#7466cc;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Semi-Bold';font-family:'Rosa Sans';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="790.37042"
+         y="426.02084"
+         id="tspan22969">LISA</tspan></text>
+    <rect
+       style="fill:#23194d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect44658"
+       width="440"
+       height="65"
+       x="780"
+       y="460" />
+    <text
+       xml:space="preserve"
+       style="font-size:52.9167px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Semi-Bold';fill:#7466cc;fill-opacity:1;stroke-width:0.264583;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="790.37042"
+       y="511.02087"
+       id="text18323"><tspan
+         sodipodi:role="line"
+         id="tspan18321"
+         style="font-size:52.9167px;fill:#7466cc;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Semi-Bold';font-family:'Rosa Sans';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="790.37042"
+         y="511.02087">SHAWN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:61.7361px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Bold';fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="1149.594"
+       y="259.38544"
+       id="text25179"><tspan
+         sodipodi:role="line"
+         style="font-size:61.7361px;fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Bold';font-family:'Rosa Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="1149.594"
+         y="259.38544"
+         id="tspan25527">12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:70.5556px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Bold';fill:#e9fbfb;fill-opacity:1;stroke-width:0.264583;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="223.90582"
+       y="699.72974"
+       id="text29489"><tspan
+         sodipodi:role="line"
+         id="tspan29487"
+         style="font-size:70.5556px;fill:#e9fbfb;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Bold';font-family:'Rosa Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="223.90582"
+         y="699.72974">ABC</tspan></text>
+    <rect
+       style="fill:#342673;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect35929"
+       width="80"
+       height="640"
+       x="610"
+       y="80" />
+    <rect
+       style="fill:url(#linearGradient37384);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect32769"
+       width="70"
+       height="630"
+       x="615"
+       y="85" />
+    <text
+       xml:space="preserve"
+       style="font-size:35.2778px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Semi-Bold';fill:#fff299;fill-opacity:1;stroke-width:0.264583;font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="163.5808"
+       y="588.14099"
+       id="text38222"><tspan
+         sodipodi:role="line"
+         id="tspan38220"
+         style="font-size:35.2778px;fill:#fff299;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Semi-Bold';font-family:'Rosa Sans';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="163.5808"
+         y="588.14099">ABCDE is taken!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:61.7361px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Bold';fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="1166.0339"
+       y="344.13849"
+       id="text44842"><tspan
+         sodipodi:role="line"
+         style="font-size:61.7361px;fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Bold';font-family:'Rosa Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="1166.0339"
+         y="344.13849"
+         id="tspan44840">9</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:61.7361px;fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Bold';font-family:'Rosa Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="1166.0339"
+         y="421.30862"
+         id="tspan45460" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:61.7361px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Bold';fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="1166.0339"
+       y="429.13849"
+       id="text46363"><tspan
+         sodipodi:role="line"
+         style="font-size:61.7361px;fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Bold';font-family:'Rosa Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="1166.0339"
+         y="429.13849"
+         id="tspan46359">6</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:61.7361px;fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Bold';font-family:'Rosa Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="1166.0339"
+         y="506.30862"
+         id="tspan46361" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:61.7361px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Bold';fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="1166.0339"
+       y="514.13849"
+       id="text48391"><tspan
+         sodipodi:role="line"
+         style="font-size:61.7361px;fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Bold';font-family:'Rosa Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="1166.0339"
+         y="514.13849"
+         id="tspan48387">3</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:61.7361px;fill:#e8e87d;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Bold';font-family:'Rosa Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="1166.0339"
+         y="591.30859"
+         id="tspan48389" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:105.833px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Heavy';fill:#141f1f;fill-opacity:1;stroke-width:0.264583;font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="120.15388"
+       y="194.39575"
+       id="text55203"><tspan
+         sodipodi:role="line"
+         id="tspan55201"
+         style="font-size:105.833px;fill:#141f1f;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Heavy';font-family:'Rosa Sans';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="120.15388"
+         y="194.39575">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:105.833px;line-height:1.25;font-family:'Rosa Sans';-inkscape-font-specification:'Rosa Sans Heavy';fill:#141f1f;fill-opacity:1;stroke-width:0.264583;font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="261.47678"
+       y="194.39575"
+       id="text55207"><tspan
+         sodipodi:role="line"
+         id="tspan55205"
+         style="font-size:105.833px;fill:#141f1f;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Rosa Sans Heavy';font-family:'Rosa Sans';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="261.47678"
+         y="194.39575">B</tspan></text>
+  </g>
+</svg>
